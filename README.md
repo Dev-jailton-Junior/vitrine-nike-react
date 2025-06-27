@@ -5,14 +5,6 @@ Recriei uma vitrine digital de um produto da Nike, focando na componentização,
 
 ---
 
-## 📸 Preview do projeto
-
-<div align="center">
-  <img src="https://github.com/Dev-jailton-Junior/vitrine-nike-react/assets/mockup-nike.png" alt="Mockup Vitrine Nike" width="100%" />
-</div>
-
----
-
 ## 🚀 Funcionalidades
 
 - Troca de cores do tênis de forma interativa
